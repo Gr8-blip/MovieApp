@@ -87,6 +87,3 @@ Building the future one line of code at a time 💥
 
 ## ⭐ Show Some Love
 If you like this project, consider giving it a **⭐ on GitHub** and sharing it with your dev friends 😎
-````
-
----
